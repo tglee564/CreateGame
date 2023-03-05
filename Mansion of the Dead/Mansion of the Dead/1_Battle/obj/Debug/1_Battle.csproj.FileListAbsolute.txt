@@ -1,0 +1,14 @@
+C:\Users\WIN10\Desktop\유니티\Endress Of Despair\Endress Of Despair\1_Battle\obj\Debug\1_Battle.csproj.AssemblyReference.cache
+C:\Users\WIN10\Desktop\유니티\Endress Of Despair\Endress Of Despair\1_Battle\obj\Debug\1_Battle.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\유니티\Endress Of Despair\Endress Of Despair\1_Battle\bin\Debug\1_Battle.exe.config
+C:\Users\WIN10\Desktop\유니티\Endress Of Despair\Endress Of Despair\1_Battle\bin\Debug\1_Battle.exe
+C:\Users\WIN10\Desktop\유니티\Endress Of Despair\Endress Of Despair\1_Battle\bin\Debug\1_Battle.pdb
+C:\Users\WIN10\Desktop\유니티\Endress Of Despair\Endress Of Despair\1_Battle\obj\Debug\1_Battle.exe
+C:\Users\WIN10\Desktop\유니티\Endress Of Despair\Endress Of Despair\1_Battle\obj\Debug\1_Battle.pdb
+C:\TG\Endress Of Despair\Endress Of Despair\1_Battle\bin\Debug\1_Battle.exe.config
+C:\TG\Endress Of Despair\Endress Of Despair\1_Battle\bin\Debug\1_Battle.exe
+C:\TG\Endress Of Despair\Endress Of Despair\1_Battle\bin\Debug\1_Battle.pdb
+C:\TG\Endress Of Despair\Endress Of Despair\1_Battle\obj\Debug\1_Battle.csproj.AssemblyReference.cache
+C:\TG\Endress Of Despair\Endress Of Despair\1_Battle\obj\Debug\1_Battle.csproj.CoreCompileInputs.cache
+C:\TG\Endress Of Despair\Endress Of Despair\1_Battle\obj\Debug\1_Battle.exe
+C:\TG\Endress Of Despair\Endress Of Despair\1_Battle\obj\Debug\1_Battle.pdb

@@ -1,0 +1,35 @@
+C:\Users\WIN10\Desktop\유니티\Endress Of Despair\Endress Of Despair\0_Main\bin\Debug\0_Main.exe.config
+C:\Users\WIN10\Desktop\유니티\Endress Of Despair\Endress Of Despair\0_Main\bin\Debug\0_Main.exe
+C:\Users\WIN10\Desktop\유니티\Endress Of Despair\Endress Of Despair\0_Main\bin\Debug\0_Main.pdb
+C:\Users\WIN10\Desktop\유니티\Endress Of Despair\Endress Of Despair\0_Main\obj\Debug\0_Main.csproj.AssemblyReference.cache
+C:\Users\WIN10\Desktop\유니티\Endress Of Despair\Endress Of Despair\0_Main\obj\Debug\0_Main.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\유니티\Endress Of Despair\Endress Of Despair\0_Main\obj\Debug\0_Main.exe
+C:\Users\WIN10\Desktop\유니티\Endress Of Despair\Endress Of Despair\0_Main\obj\Debug\0_Main.pdb
+C:\TG\Endress Of Despair\Endress Of Despair\0_Main\bin\Debug\0_Main.exe.config
+C:\TG\Endress Of Despair\Endress Of Despair\0_Main\bin\Debug\0_Main.exe
+C:\TG\Endress Of Despair\Endress Of Despair\0_Main\bin\Debug\0_Main.pdb
+C:\TG\Endress Of Despair\Endress Of Despair\0_Main\obj\Debug\0_Main.csproj.AssemblyReference.cache
+C:\TG\Endress Of Despair\Endress Of Despair\0_Main\obj\Debug\0_Main.csproj.CoreCompileInputs.cache
+C:\TG\Endress Of Despair\Endress Of Despair\0_Main\obj\Debug\0_Main.exe
+C:\TG\Endress Of Despair\Endress Of Despair\0_Main\obj\Debug\0_Main.pdb
+C:\Users\WIN10\Desktop\유니티\Endress Of Despair2\Endress Of Despair\0_Main\bin\Debug\0_Main.exe.config
+C:\Users\WIN10\Desktop\유니티\Endress Of Despair2\Endress Of Despair\0_Main\bin\Debug\0_Main.exe
+C:\Users\WIN10\Desktop\유니티\Endress Of Despair2\Endress Of Despair\0_Main\bin\Debug\0_Main.pdb
+C:\Users\WIN10\Desktop\유니티\Endress Of Despair2\Endress Of Despair\0_Main\obj\Debug\0_Main.csproj.AssemblyReference.cache
+C:\Users\WIN10\Desktop\유니티\Endress Of Despair2\Endress Of Despair\0_Main\obj\Debug\0_Main.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\Desktop\유니티\Endress Of Despair2\Endress Of Despair\0_Main\obj\Debug\0_Main.exe
+C:\Users\WIN10\Desktop\유니티\Endress Of Despair2\Endress Of Despair\0_Main\obj\Debug\0_Main.pdb
+C:\TG\Mansion of the Dead\Mansion of the Dead\0_Main\bin\Debug\0_Main.exe.config
+C:\TG\Mansion of the Dead\Mansion of the Dead\0_Main\bin\Debug\0_Main.exe
+C:\TG\Mansion of the Dead\Mansion of the Dead\0_Main\bin\Debug\0_Main.pdb
+C:\TG\Mansion of the Dead\Mansion of the Dead\0_Main\obj\Debug\0_Main.csproj.AssemblyReference.cache
+C:\TG\Mansion of the Dead\Mansion of the Dead\0_Main\obj\Debug\0_Main.csproj.CoreCompileInputs.cache
+C:\TG\Mansion of the Dead\Mansion of the Dead\0_Main\obj\Debug\0_Main.exe
+C:\TG\Mansion of the Dead\Mansion of the Dead\0_Main\obj\Debug\0_Main.pdb
+C:\Users\admin\Documents\TG\Mansion of the Dead\Mansion of the Dead\0_Main\bin\Debug\0_Main.exe.config
+C:\Users\admin\Documents\TG\Mansion of the Dead\Mansion of the Dead\0_Main\bin\Debug\0_Main.exe
+C:\Users\admin\Documents\TG\Mansion of the Dead\Mansion of the Dead\0_Main\bin\Debug\0_Main.pdb
+C:\Users\admin\Documents\TG\Mansion of the Dead\Mansion of the Dead\0_Main\obj\Debug\0_Main.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\TG\Mansion of the Dead\Mansion of the Dead\0_Main\obj\Debug\0_Main.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\TG\Mansion of the Dead\Mansion of the Dead\0_Main\obj\Debug\0_Main.exe
+C:\Users\admin\Documents\TG\Mansion of the Dead\Mansion of the Dead\0_Main\obj\Debug\0_Main.pdb
